@@ -8,12 +8,13 @@
   --text-color: #f1b2ce;
   --bg-color: #000028;
   --font-size-main: 18px;
-  --font-family-main: "IBM Plex Mono", sans-serif;
+  --font-family-main: "IBM Plex Mono", monospace;
   --color-title-big: #db00ff;
   --color-title: #000028;
   --color-shadow: #ff0070;
   --link-shadow: #ff0070;
   --element-color: #ff0070;
+  --button-hover-color: rgba(255, 0, 112, 0.4);
   --bg-text-color: #ff0070;
   --big-gap: 20px;
   --low-gap: 10px;
