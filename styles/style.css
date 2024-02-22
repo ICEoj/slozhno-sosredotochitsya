@@ -427,7 +427,7 @@
   }
 
   .section_concetration_title {
-    width: 355px;
+    max-width: 355px;
   }
 
   .section_concetration_fish {
